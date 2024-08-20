@@ -2,6 +2,17 @@
 
 This project is a real-time stock price dashboard built using Python, Streamlit, Plotly, and various financial data analysis tools. The dashboard allows users to visualize stock prices, apply technical indicators, and monitor real-time prices of selected stocks. The application is powered by the Yahoo Finance API and provides a highly customizable interface for financial analysis.
 
+## Directory Structure
+
+```
+Real_Time_Stock_Price_Dashboard/
+├── stock_dashboard.py
+├── requirements.txt
+├── README.md
+├── LICENSE
+└── Example.png
+```
+
 ## Features
 
 - **Real-Time Data**: Fetches and displays real-time stock data.
