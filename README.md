@@ -51,6 +51,10 @@ Ensure that you have Python 3.8 or higher installed on your machine. You'll also
    ```
    This command will launch the dashboard in your web browser!
 
+   *Example*:
+
+   <img src='Example.png'>
+
 ## Usage
 ### Interface Overview
 
