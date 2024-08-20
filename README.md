@@ -35,12 +35,12 @@ Ensure that you have Python 3.8 or higher installed on your machine. You'll also
 
    Install the required Python packages using pip:
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
    If you don't have a requirements.txt file, you can manually install the dependencies:
    ```bash
-   pip install streamlit yfinance pandas plotly pytz ta
+   pip3 install streamlit yfinance pandas plotly pytz ta
    ```
 
 3. **Run the Application**
