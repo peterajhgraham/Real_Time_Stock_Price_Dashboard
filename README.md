@@ -28,7 +28,7 @@ Ensure that you have Python 3.8 or higher installed on your machine. You'll also
 
    First, clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/Real_Time_Stock_Price_Dashboard.git
+   git clone https://github.com/peterajhgraham/Real_Time_Stock_Price_Dashboard.git
    cd Real_Time_Stock_Price_Dashboard
 
 3. **Install the Required Packages**
