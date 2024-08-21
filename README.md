@@ -58,7 +58,7 @@ Ensure that you have Python 3.8 or higher installed on your machine. You'll also
 
    Once all the dependencies are installed, you can start the Streamlit app:
    ```bash
-   streamlit run stock_dashboard.py
+   python3 -m streamlit run
    ```
    This command will launch the dashboard in your web browser!
 
